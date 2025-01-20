@@ -1,0 +1,4 @@
+﻿  main.c
+C:\Users\pperh\OneDrive\Documents\sesiune\Zoom\main.c(127,17): warning C4047: 'function': 'WaitingRoom *' differs in levels of indirection from 'Student **'
+C:\Users\pperh\OneDrive\Documents\sesiune\Zoom\main.c(127,17): warning C4024: 'printStudents': different types for formal and actual parameter 1
+  Zoom.vcxproj -> C:\Users\pperh\OneDrive\Documents\sesiune\Zoom\x64\Debug\Zoom.exe
