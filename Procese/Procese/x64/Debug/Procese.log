@@ -1,0 +1,6 @@
+﻿  main.c
+C:\Users\pperh\OneDrive\Documents\sesiune\Procese\main.c(34,19): warning C4018: '<': signed/unsigned mismatch
+C:\Users\pperh\OneDrive\Documents\sesiune\Procese\main.c(52,19): warning C4018: '<': signed/unsigned mismatch
+C:\Users\pperh\OneDrive\Documents\sesiune\Procese\main.c(99,16): warning C4047: '==': 'int *' differs in levels of indirection from 'int'
+C:\Users\pperh\OneDrive\Documents\sesiune\Procese\main.c(96,1): warning C4715: 'dequeue': not all control paths return a value
+  Procese.vcxproj -> C:\Users\pperh\OneDrive\Documents\sesiune\Procese\x64\Debug\Procese.exe
